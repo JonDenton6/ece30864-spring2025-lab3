@@ -9,3 +9,14 @@ Cons:
 (b)
 The scrum master manages the scrum processes and works towards achieving agile development. They fix issues the development team has and 
 remove distractions. The product owner represents stakeholders and ensures business value, as well as communicating visions and requirements to the team. 
+
+(c)
+1. Spring planning:
+- determine what to complete in the Sprint
+- determine story points and assign stories to teans
+2. Daily scrum:
+- discuss work completed
+- plan work for the day and any interuptions
+3. Sprint Retrospective:
+- discuss work complete
+- discuss incomplete work that needs to be moved to backlog
