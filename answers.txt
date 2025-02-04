@@ -5,3 +5,7 @@ Pros:
 Cons: 
 - Project scope and timeline can be hard to estimate
 - Large projects with complex dependencies may struggle with iterative development
+
+(b)
+The scrum master manages the scrum processes and works towards achieving agile development. They fix issues the development team has and 
+remove distractions. The product owner represents stakeholders and ensures business value, as well as communicating visions and requirements to the team. 
