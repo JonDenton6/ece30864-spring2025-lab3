@@ -1,0 +1,7 @@
+(a) 
+Pros:  
+- Allows teams to adjust to changing requirements and priorities quickly
+- Frequent testing and feedback reduces undiscovered issues and improves the quality of the end product
+Cons: 
+- Project scope and timeline can be hard to estimate
+- Large projects with complex dependencies may struggle with iterative development
