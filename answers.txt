@@ -11,7 +11,7 @@ The scrum master manages the scrum processes and works towards achieving agile d
 remove distractions. The product owner represents stakeholders and ensures business value, as well as communicating visions and requirements to the team. 
 
 (c)
-1. Spring planning:
+1. Sprint planning:
 - determine what to complete in the Sprint
 - determine story points and assign stories to teans
 2. Daily scrum:
