@@ -20,3 +20,7 @@ remove distractions. The product owner represents stakeholders and ensures busin
 3. Sprint Retrospective:
 - discuss work complete
 - discuss incomplete work that needs to be moved to backlog
+
+(d)
+Epic is a large body of work with multiple stories and tasks. Story is a feature or specific requirement that compose an epic. A bug is a defect/issue 
+that needs to be fixed in the system. A task issue is a work item that needs to be completed. 
